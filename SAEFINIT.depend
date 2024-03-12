@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1707072781 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\main.c
+	"include.h"
+	"yams.h"
+
+1707072374 c:\users\lefeb\onedrive\bureau\dev\saefinit\include.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+
+1707072374 c:\users\lefeb\onedrive\bureau\dev\saefinit\yams.h
+	<stdbool.h>
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\calcul.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\choix.c
+	"include.h"
+	"yams.h"
+
+1707073351 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\classement.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\combinaison.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\des.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\free.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\grille.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\initialisation.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\input.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\joueur.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\maj.c
+	"include.h"
+	"yams.h"
+
+1707073143 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\menu.c
+	"include.h"
+	"yams.h"
+
+1707072881 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\regles.c
+	"include.h"
+	"yams.h"
+
+1707074121 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\score.c
+	"include.h"
+	"yams.h"
+
+1707074121 source:c:\users\lefeb\onedrive\bureau\dev\saefinit\yams.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\calcul.c
+	"include.h"
+	"yams.h"
+
+1707910561 c:\users\paula\downloads\saeyams\saeyams\include.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+
+1707910562 c:\users\paula\downloads\saeyams\saeyams\yams.h
+	<stdbool.h>
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\choix.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\classement.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\combinaison.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\des.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\free.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\grille.c
+	"include.h"
+	"yams.h"
+
+1707910561 source:c:\users\paula\downloads\saeyams\saeyams\initialisation.c
+	"include.h"
+	"yams.h"
+
+1707910562 source:c:\users\paula\downloads\saeyams\saeyams\input.c
+	"include.h"
+	"yams.h"
+
+1707910562 source:c:\users\paula\downloads\saeyams\saeyams\joueur.c
+	"include.h"
+	"yams.h"
+
+1707910562 source:c:\users\paula\downloads\saeyams\saeyams\main.c
+	"include.h"
+	"yams.h"
+
+1707910562 source:c:\users\paula\downloads\saeyams\saeyams\maj.c
+	"include.h"
+	"yams.h"
+
+1707912013 source:c:\users\paula\downloads\saeyams\saeyams\menu.c
+	"include.h"
+	"yams.h"
+
+1707910562 source:c:\users\paula\downloads\saeyams\saeyams\regles.c
+	"include.h"
+	"yams.h"
+
+1707910562 source:c:\users\paula\downloads\saeyams\saeyams\score.c
+	"include.h"
+	"yams.h"
+
+1707910684 source:c:\users\paula\downloads\saeyams\saeyams\yams.c
+	"include.h"
+	"yams.h"
+

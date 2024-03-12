@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SAEFINIT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SAEFINIT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SAEFINIT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="MeilleursScores.txt" />
+		<Unit filename="SAEFINIT.cbp" />
+		<Unit filename="calcul.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="choix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="classement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="combinaison.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="des.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="free.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grille.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="include.h" />
+		<Unit filename="initialisation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="joueur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="maj.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="regles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sae.txt" />
+		<Unit filename="savegame.txt" />
+		<Unit filename="score.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="score.txt" />
+		<Unit filename="yams.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="yams.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
